@@ -1,3 +1,4 @@
 # AIMWARE.net-Lua-tutorials
-Simple Lua tutorials for AIMWARE.net // Простые учебники по Lua для AIMWARE.net
-Coming soon.
+This is not my code!!!
+All rights go to AIMWARE Software, I just saved the code for offline usage.
+You can also find the docs -> https://docs.aimware.net/index.html
